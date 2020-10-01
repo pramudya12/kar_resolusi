@@ -2,8 +2,12 @@ RENCANA KONTEN KAR
 
 - JAVA
   * OOP JAVA
-- Struktur Data
 - JAVA Frameworks
   * Spring
   * Vaadin
   * JSF
+
+- Javasript Framework
+  * Angular
+  * React
+  
