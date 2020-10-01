@@ -11,6 +11,7 @@ RENCANA KONTEN KAR
 
 - Javascript Framework
   * Vue
+  * React
 
 - Python
   
