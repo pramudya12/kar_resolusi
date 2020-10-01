@@ -1,0 +1,8 @@
+RENCANA KONTEN KAR
+
+- JAVA
+  * OOP JAVA
+- JAVA Frameworks
+  * Spring
+  * Vaadin
+  * JSF
