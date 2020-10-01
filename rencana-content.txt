@@ -7,3 +7,10 @@ RENCANA KONTEN KAR
   * Spring
   * Vaadin
   * JSF
+  * Hibernate
+
+- Javascript Framework
+  * Vue
+
+- Python
+  
