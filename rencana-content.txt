@@ -6,8 +6,9 @@ RENCANA KONTEN KAR
   * Spring
   * Vaadin
   * JSF
-
-- Javasript Framework
-  * Angular
+- Javascript Framework
+  * Vue
   * React
-  
+
+- Python
+ 
